@@ -1,0 +1,10 @@
+El primer comando muestra informaciones basicas como versiones del sistema,
+la hora, la terminal en la que estamos etc
+La segunda muestra (CODESPACE)
+
+Conocer la informacion del sistema es util al administrar un
+servidor porque permite verificar el estado de los recursos,
+identificar posibles problemas y asegurar que todo funcione 
+correctamente. Ademas, ayuda a tomar decisiones sobre 
+mantenimiento, actualizaciones y seguridad, garantizando 
+un mejor rendimiento y estabilidad del servidor.

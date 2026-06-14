@@ -1,0 +1,9 @@
+1. Usar contraseñas seguras
+
+2. Implementar autenticacion de usuarios 
+
+3. Mantener el sistema y las aplicaciones actualizadas
+
+4. Realizar copias de seguridad 
+
+5. Proteger los datos personales de los usuarios 

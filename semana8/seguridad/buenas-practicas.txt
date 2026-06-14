@@ -1,0 +1,5 @@
+1. Usar contraseñas seguras y unicas
+
+2. Mantener el software actualizado
+
+3. No abrir enlaces ni archivos de origen desconocido
